@@ -1,0 +1,164 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+
+.aktive{
+    background-color: rgb(225, 188, 65);
+    color: brown !important;
+    border-radius: 20px 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+
+.hower:hover {
+    color: brown !important;
+    text-decoration: none;
+    background-color: rgb(225, 188, 65);
+    border-radius: 20px 20px;
+   font-weight: bold;
+    cursor: pointer;
+}
+
+.bttn:hover{
+    background-color: brown !important;
+    color: rgb(225, 188, 65) !important;
+}
+/* label{
+    display: inline-block;
+    padding-right: 200px;
+    width: 200px;
+    text-align: right;
+    border: 2px;
+} */
+
+.sign-in-prop{
+    color: brown;
+     border: 2px solid brown;
+      font-weight: bold;
+       font-family: cursive;
+}
+
+.shdow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+
+.bg{
+    background: url('images/1\ 2\ copy.jpg') no-repeat !important;
+    /* width: 100%;
+    height: 600px; */
+    background-size: cover;
+    box-shadow: 10px;
+}
+
+.form-container{
+    /* border: 1px solid; */
+    /* margin-left: 50px; */
+    padding: 50px 50px 50px 50px;
+    padding-left: 100px;
+    color: white;
+}
+
+.textbox{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    border-bottom: 1px solid rgb(225, 188, 65);
+}
+.textbox input{
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+}
+
+.textbox textarea{
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+}
+
+.send-btn{
+    width: 100%;
+    background: none;
+    color: white;
+    cursor: pointer;
+}
+
+.send-btn-prop{
+    color: white;
+     border: 3px solid rgb(225, 188, 65);
+      font-weight: bold;
+       font-family: cursive;
+}
+
+.contact-form{
+    margin-top: 30px;
+     color: white; 
+     font-family: cursive;
+}
+
+.label {
+    float: left;
+    width: 200px;
+    clear: left;
+
+}
+
+form{
+    padding: 20px;
+}
+.mrgn{
+    margin: 10px;
+}
+
+.input{
+    width: 300px;
+}
+
+.reservation-page .form-control {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    color: #b0b0b0; }
+
+.bg-img{
+    background: url('images/of\ of.jpg') no-repeat!important;
+    
+    /* width: 100%;
+    height: 100%; */
+    background-size: cover;
+    box-shadow: 10px;
+}
+
+.bg-colour{
+    background-color:  rgb(225, 188, 65) !important;
+}
+
+.book-table{
+    color: white;
+     border: 3px solid rgb(225, 188, 65);
+      font-weight: bold;
+       font-family: cursive;
+}
+
+.icoon{
+    color: rgb(240, 244, 248); 
+    border-radius: 25px 25px 25px 25px; 
+    background-color: brown;
+     padding: 10px;
+}
+
+
+.copyright{
+    color: brown;
+     padding-top: 10px;
+     font-family: cursive;
+}
+
+
+
